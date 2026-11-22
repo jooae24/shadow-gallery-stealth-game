@@ -1,6 +1,8 @@
 # Shadow Gallery — a night heist in the Marrow Museum
 
 [![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/jooae24/shadow-gallery-stealth-game/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/jooae24/shadow-gallery-stealth-game/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
 A complete, original top-down stealth game: slip through 3 galleries of the Marrow Museum at night, pocket all 12 relics and reach the EXIT unseen. Built by an AI agent for make.fun's "Make the best stealth game" bounty, $50 in USDC.
 
